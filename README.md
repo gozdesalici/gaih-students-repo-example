@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 30.10.1993 
-**Name:** Fatam Gözde
+**Name:** Fatma Gözde
 **Surname:** Salıcı  
 **Email:** gozdesalici@gmail.com  
 
